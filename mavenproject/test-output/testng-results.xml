@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2023-03-05T08:43:08 IST" finished-at="2023-03-05T08:43:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2023-03-05T08:43:08 IST" finished-at="2023-03-05T08:43:08 IST">
+      <class name="fms.mavenproject.SeleniumTest">
+        <test-method status="PASS" signature="myntra()[pri:0, instance:fms.mavenproject.SeleniumTest@5891e32e]" name="myntra" duration-ms="8" started-at="2023-03-05T08:43:08 IST" finished-at="2023-03-05T08:43:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntra -->
+        <test-method status="PASS" signature="snapdeal()[pri:0, instance:fms.mavenproject.SeleniumTest@5891e32e]" name="snapdeal" duration-ms="0" started-at="2023-03-05T08:43:08 IST" finished-at="2023-03-05T08:43:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- snapdeal -->
+      </class> <!-- fms.mavenproject.SeleniumTest -->
+      <class name="fms.mavenproject.AppiumTest">
+        <test-method status="PASS" signature="faceBook()[pri:0, instance:fms.mavenproject.AppiumTest@c81cdd1]" name="faceBook" duration-ms="1" started-at="2023-03-05T08:43:08 IST" finished-at="2023-03-05T08:43:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBook -->
+        <test-method status="PASS" signature="youtube()[pri:0, instance:fms.mavenproject.AppiumTest@c81cdd1]" name="youtube" duration-ms="1" started-at="2023-03-05T08:43:08 IST" finished-at="2023-03-05T08:43:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youtube -->
+      </class> <!-- fms.mavenproject.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
